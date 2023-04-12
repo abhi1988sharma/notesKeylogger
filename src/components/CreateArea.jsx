@@ -103,7 +103,7 @@ function CreateArea(props) {
 
       </form>
 
-      <button onClick={() => console.log(buffer)}>Test</button>
+      
     </div>
   );
 }
